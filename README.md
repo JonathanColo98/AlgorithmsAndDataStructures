@@ -1,2 +1,2 @@
-# LessonsAlgorithmDataStructures
-Lessons of Algorithm and Data Structures 
+# LessonsAlgorithmsDataStructures
+Lessons of Algorithms and Data Structures 
