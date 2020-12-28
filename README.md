@@ -1,2 +1,2 @@
 # LessonsAlgorithmsDataStructures
-Lessons of Algorithms and Data Structures 
+Algorithms and Data Structures in Java
